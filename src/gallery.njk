@@ -1,0 +1,15 @@
+---
+title: Gallery
+layout: 'gallery.njk'
+---
+
+<div class="gallery">
+    <ul role="list" class="articles__list flow">
+
+        {%- for post in collections.gallery | reverse -%}
+        {% include 'gallery-card.njk' %}
+        {%- endfor %}
+
+    </ul>
+</div>
+
