@@ -1,7 +1,6 @@
 ---
 title: First post from CMS
-description: "freamop modpewM ODPEWA MOD PWEAM DOEPmo pfrmaopfm raom foparmof
-  pmraop mfda mflkdas "
+description: "Yoga Raccoon "
 author: Davelopa/
 date: 2022-09-04T13:27:09.493Z
 tags:
