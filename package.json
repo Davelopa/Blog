@@ -1,0 +1,23 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Blog site made by using 11ty",
+  "main": "index.js",
+  "scripts": {
+    "dev": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davelopa/Blog.git"
+  },
+  "author": "Davelopa/",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Davelopa/Blog/issues"
+  },
+  "homepage": "https://github.com/Davelopa/Blog#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2"
+  }
+}
